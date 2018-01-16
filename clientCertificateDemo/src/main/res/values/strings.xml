@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apache Demo</string>
+    <string name="apache_1_request">Run apache 1 time</string>
+    <string name="apache_2_requests">Run apache 2 times</string>
+    <string name="okhttp_1_request">Run okhttp 1 time</string>
+    <string name="okhttp_2_requests">Run okhttp 2 times</string>
+</resources>
